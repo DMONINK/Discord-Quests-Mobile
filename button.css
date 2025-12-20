@@ -1,0 +1,17 @@
+#runDiscordScriptButton {
+  position: fixed;
+  bottom: 18px;
+  right: 18px;
+  padding: 10px 16px;
+  background: #5865f2;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 999999;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+#runDiscordScriptButton:hover {
+  background: #4e5be7;
+}
