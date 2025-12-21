@@ -1,5 +1,5 @@
 # Discord Quest Helper (For Mobile)
-Original script by [aamiaa](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
+Original Desktop script by [aamiaa](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
 
 ## How It Works
 - The extension spoofs your user-agent to make Discord think you're using the desktop app.
