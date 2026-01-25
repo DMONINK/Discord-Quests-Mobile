@@ -4,7 +4,7 @@ At this point, I’ve decided not to continue development. Fixing this would req
 Thank you to everyone who used or supported this project.
 Feel free to fork the repository if you’d like to continue development on your own.
 
-## Status: ❌ Archived/Discountinued
+**Status: ❌ Archived/Discountinued**
 
 # Discord Quest Helper (For Mobile)
 Original Desktop script by [aamiaa](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
