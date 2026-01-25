@@ -1,3 +1,11 @@
+# ⚠️ Project Status Update
+This extension no longer works due to a recent update implemented by Discord, which breaks the existing functionality.
+At this point, I’ve decided not to continue development. Fixing this would require significant rework, and I’m no longer willing to spend weeks maintaining this extension.
+Thank you to everyone who used or supported this project.
+Feel free to fork the repository if you’d like to continue development on your own.
+
+## Status: ❌ Archived/Discountinued
+
 # Discord Quest Helper (For Mobile)
 Original Desktop script by [aamiaa](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
 
